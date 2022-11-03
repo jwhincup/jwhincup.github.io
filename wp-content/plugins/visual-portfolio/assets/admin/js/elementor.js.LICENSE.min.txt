@@ -1,7 +1,0 @@
-/*!
- * Additional js for Elementor
- *
- * Name    : Visual Portfolio
- * Version : @@plugin_version
- * Author  : nK https://nkdev.info
- */

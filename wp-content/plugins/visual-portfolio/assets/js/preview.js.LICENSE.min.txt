@@ -1,5 +1,0 @@
-/*!
- * Name    : Visual Portfolio
- * Version : @@plugin_version
- * Author  : nK https://nkdev.info
- */
